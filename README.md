@@ -29,5 +29,6 @@ The IOWA Liquor Sales Analysis is a comprehensive data analytics project that ex
 
 **Developed by [Kumar Tare](https://www.linkedin.com/in/kumar-tare-740a6b1a9/)**  
 📍 Arlington, VA  
-✉️ kumar.tare@email.com
+✉️ k.tare@gwu.edu
+
 
