@@ -22,7 +22,7 @@ The IOWA Liquor Sales Analysis is a comprehensive data analytics project that ex
 - `IOWA_Analysis.pdf` – PDF summary report with key findings
 
 ## 📎 Links
-- 🔗 [View Full Notebook](https://yourwebsite.com/path/Final_Notebook_v2.6.ipynb)
+- 🔗 [View Full Notebook](IOWA_Notebook.ipynb)
 - 📄 [Download Report PDF](IOWA_Analysis.pdf)
 
 ---
